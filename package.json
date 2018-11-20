@@ -9,7 +9,7 @@
   },
   "author": "满振华",
   "license": "ISC",
-  "repository":"https://github.com/xkl2013/man-admin.git",
+  "repository":"https://github.com/xkl2013/man-admin-cli.git",
   "dependencies": {
     "chalk": "^2.4.1",
     "commander": "^2.19.0",
