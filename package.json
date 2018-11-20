@@ -1,0 +1,22 @@
+{
+  "name": "man-admin-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin":{ "democli": "index.js"},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "满振华",
+  "license": "ISC",
+  "repository":"https://github.com/xkl2013/man-admin.git",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.19.0",
+    "download-git-repo": "^1.1.0",
+    "handlebars": "^4.0.12",
+    "inquirer": "^6.2.0",
+    "log-symbols": "^2.2.0",
+    "ora": "^3.0.0"
+  }
+}
