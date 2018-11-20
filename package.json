@@ -1,15 +1,17 @@
 {
   "name": "man-admin-cli",
-  "version": "2.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "bin":{ "man-admin-cli": "index.js"},
+  "bin": {
+    "man-admin-cli": "index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "满振华",
   "license": "ISC",
-  "repository":"https://github.com/xkl2013/man-admin-cli.git",
+  "repository": "https://github.com/xkl2013/man-admin-cli.git",
   "dependencies": {
     "chalk": "^2.4.1",
     "commander": "^2.19.0",
